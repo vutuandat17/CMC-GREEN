@@ -10,7 +10,7 @@ body {
 }
 
 .navbar {
-  background: #73e058;
+  background: #dce8d9;
   width: 100%;
 }
 
@@ -38,11 +38,11 @@ body {
 }
 
 .active {
-  background: #01311da8;
+  background: #96ef99;
 }
 
 .tieudesp {
-  background: #73e058;
+  background: #93de80;
   padding: 15px;
   font-size: 24px;
   color: black;
